@@ -64,3 +64,26 @@ http://109.200.1.82:1935/edge1/cartoon.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, NICKELODEON
 http://109.200.1.82:1935/edge1/nick.stream/playlist.m3u8
+
+#EXTINF:-1,SKY BY STVALLCH:SKY SPORT 1 UK
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.193:80/liverepeater playpath=141185 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,SKY BY STVALLCH:SKY SPORT 2 Uk
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.212:80/liverepeater playpath=137646 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,SKY BY STVALLCH:SKY SPORT 3 Uk
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.179:80/liverepeater playpath=135056 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,SKY BY STVALLCH:SKY SPORT 4 Uk
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.161:80/liverepeater playpath=141190 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,SKY BY STVALLCH:SKY SPORT NEWS
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.202:80/liverepeater playpath=141892 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,SKY BY STVALLCH:SKY SPORTS F1
+rtmp://$OPT:rtmp-raw=rtmp://94.242.228.178:80/liverepeater playpath=141891 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,SKY BY STVALLCH:SKY MOVIE PREMIER
+rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=premier swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
+#EXTINF:-1,SKY BY STVALLCH:SKY MOVIES GREATS
+rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=greats swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
+#EXTINF:-1,SKY BY STVALLCH:SKY MOVIES SCI-FI&HORROR
+rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=scifi swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
+#EXTINF:-1,SKY BY STVALLCH:SKY MOVIES CRIME&THRILLER
+rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=thriller swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
+#EXTINF:-1,SKY BY STVALLCH:SKY MOVIES ACTION
+rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=action swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
