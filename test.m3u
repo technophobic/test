@@ -1,160 +1,520 @@
-#EXTM3U $ExtFilter=”SKY-UK”
 #EXTM3U
-#EXTINF:0,Sky sports 1
-http://37.48.118.32/live/skysports1.stream/playlist.m3u8
-#EXTINF:0,Sky sports 2
-http://109.200.1.82:1935/edge1/skysp2.stream/playlist.m3u8
-#EXTINF:0,Sky sports 3
-http://109.200.1.82:1935/edge1/skysp3.stream/playlist.m3u8
-#EXTINF:0,Sky sports 4
-http://109.200.1.82:1935/edge1/skysp4.stream/playlist.m3u8
-#EXTINF:0,Sky sports 5
-http://109.200.1.82:1935/edge1/skysp5.stream/playlist.m3u8
-#EXTINF:0,Sky sports F 1
-http://109.200.1.82:1935/edge1/skyspf1.stream/playlist.m3u8
-#EXTINF:0,BTSPORTS 1 
-http://109.200.1.82:1935/edge1/bt1.stream/playlist.m3u8
-#EXTINF:0,BTSPORTS 2 
-http://109.200.1.82:1935/edge1/bt2.stream/playlist.m3u8
+#EXTINF:-1,[COLOR blue][I][B]--- 26-02-2016 ---[/B][/I][/COLOR] [COLOR pink][I][B]UPDATE: 1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 26-02-2016--[/COLOR]
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY 1
-http://109.200.1.82:1935/edge1/sky1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY 2
-http://109.200.1.82:1935/edge1/sky2.stream/playlist.m3u8
+#EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, NAT GEO
-http://109.200.1.82:1935/edge1/natgeo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, DISCOVERY
-http://109.200.1.82:1935/edge1/discov.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, ANIMAL PLANET
-http://109.200.1.82:1935/edge1/animal.stream/playlist.m3u8
+#EXTINF:-1,[I][B][COLOR white]All these streams can be easily found over the internet.[/COLOR][/B][/I]
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, HISTORY
-http://109.200.1.82:1935/edge1/history.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, EDEN
-http://109.200.1.82:1935/edge1/eden.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES COMEDY
-http://109.200.1.82:1935/edge1/movcomedy.stream/playlist.m3u8
+#EXTINF:-1,[I][B][COLOR white]We do not have any server or broadcast any kind of signal.[/COLOR][/B][/I]
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES FAMILY
-http://109.200.1.82:1935/edge1/movfamily.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES SCI-FICTION
-http://109.200.1.82:1935/edge1/movsci.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES ACTION
-http://109.200.1.82:1935/edge1/movaction.stream/playlist.m3u8
+#EXTINF:-1,[I][B][COLOR white]All these streams are the result of many hours of[/COLOR][/B][/I]
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES DRAMA
-http://109.200.1.82:1935/edge1/movdrama.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY LIVING
-http://109.200.1.82:1935/edge1/living.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY LIVING IT
-http://109.200.1.82:1935/edge1/livingit.stream/playlist.m3u8
+#EXTINF:-1,[I][B][COLOR white]research over the Internet.[/COLOR][/B][/I]
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, CARTOON NETWORK
-http://109.200.1.82:1935/edge1/cartoon.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, NICKELODEON
-http://109.200.1.82:1935/edge1/nick.stream/playlist.m3u8
 
-#EXTINF:-1,SKY BY STVALLCH:SKY SPORT 1 UK
-rtmp://$OPT:rtmp-raw=rtmp://94.242.228.193:80/liverepeater playpath=141185 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,SKY BY STVALLCH:SKY SPORT 2 Uk
-rtmp://$OPT:rtmp-raw=rtmp://94.242.228.212:80/liverepeater playpath=137646 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,SKY BY STVALLCH:SKY SPORT 3 Uk
-rtmp://$OPT:rtmp-raw=rtmp://94.242.228.179:80/liverepeater playpath=135056 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,SKY BY STVALLCH:SKY SPORT 4 Uk
-rtmp://$OPT:rtmp-raw=rtmp://94.242.228.161:80/liverepeater playpath=141190 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,SKY BY STVALLCH:SKY SPORT NEWS
-rtmp://$OPT:rtmp-raw=rtmp://94.242.228.202:80/liverepeater playpath=141892 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,SKY BY STVALLCH:SKY SPORTS F1
-rtmp://$OPT:rtmp-raw=rtmp://94.242.228.178:80/liverepeater playpath=141891 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,SKY BY STVALLCH:SKY MOVIE PREMIER
-rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=premier swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
-#EXTINF:-1,SKY BY STVALLCH:SKY MOVIES GREATS
-rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=greats swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
-#EXTINF:-1,SKY BY STVALLCH:SKY MOVIES SCI-FI&HORROR
-rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=scifi swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
-#EXTINF:-1,SKY BY STVALLCH:SKY MOVIES CRIME&THRILLER
-rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=thriller swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
-#EXTINF:-1,SKY BY STVALLCH:SKY MOVIES ACTION
-rtmp://$OPT:rtmp-raw=tmpe://46.246.124.38:1935/redirect playpath=action swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org
+#EXTINF:-1,[I][B][COLOR white]We also want to thank all the users who contributed[/COLOR][/B][/I]
 
-#‎EXTINF‬:0,SKY DISNEY
-http://81.101.176.240:8001/1:0:1:10D4:7D7:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY DISNEY HD
-http://81.101.176.240:8001/1:0:19:F3C:7E8:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY MOVIES FAMILY
-http://81.101.176.240:8001/1:0:1:1133:7D7:2:11A0000:0:0:0:
+#EXTINF:-1,[I][B][COLOR white]with a small donation. It's the small gestures that make a difference.[/COLOR][/B][/I]
 
-#EXTINF:0,SKY MOVIES FAMILY HD
-http://81.101.176.240:8001/1:0:86:EEA:7E0:2:11A0000:0:0:0:
 
-#EXTINF:-1,SKY CHRISTMAS 24
-http://81.101.176.240:8001/1:0:1:CC29:8FF:2:11A0000:0:0:0:
 
-#EXTINF:-1,SKY CHRISTMAS 24+
-http://81.101.176.240:8001/1:0:1:CC2E:8FF:2:11A0000:0:0:0:
+#EXTINF:-1,[I][B][COLOR white]This is not the best English, but I think you'll understand. :)[/COLOR][/B][/I]
 
-#EXTINF:0,SKY COMEDY HD
-http://81.101.176.240:8001/1:0:19:EEB:7E8:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY COMEDY
-http://81.101.176.240:8001/1:0:1:10CF:7D7:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY DRAMA & ROMANCE
-http://81.101.176.240:8001/1:0:1:157E:7D7:2:11A0000:0:0:0:
+#EXTINF:-1,[I][B][COLOR orange]------------------- WE ONLY SHARE! --------------------[/COLOR][/B][/I]
 
-#EXTINF:0,SKY DRAMA ROMANCE HD
-http://81.101.176.240:8001/1:0:19:EE8:7E8:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY ACTION & ADVENTURE
-http://81.101.176.240:8001/1:0:1:10CE:7D7:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY ACTION & ADVENTURE HD
-http://81.101.176.240:8001/1:0:19:EE6:7EC:2:11A0000:0:0:0:
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:0,SKY MODERN GREATS
-http://81.101.176.240:8001/1:0:1:1612:7D7:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY MODERN GREATS HD
-http://81.101.176.240:8001/1:0:19:EE7:7E8:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY PREMIERE
-http://81.101.176.240:8001/1:0:1:1134:7D7:2:11A0000:0:0:0:
+#EXTINF:-1, [COLOR yellow]---â˜… TEMPORARY CHANNELS â˜…---[/COLOR]
 
-#EXTINF:0,SKY PREMIER +1
-http://81.101.176.240:8001/1:0:1:1135:7D7:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY PREMIER HD
-http://81.101.176.240:8001/1:0:19:EED:7E0:2:11A0000:0:0:0:
+#EXTINF:-1,[COLOR yellow][I][B]Some channels may not work or goes down after a few seconds[/B][/I][/COLOR]
 
-#EXTINF:0,SKY MOVIES SELECT
-http://81.101.176.240:8001/1:0:1:10D2:7D7:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY MOVIES HD
-http://81.101.176.240:8001/1:0:19:F3D:7E0:2:11A0000:0:0:0:
+#EXTINF:-1,UK-ITV1
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/131.m3u8
+#EXTINF:-1,UK-ITV2
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/132.m3u8
+#EXTINF:-1,UK-ITV3
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/133.m3u8
+#EXTINF:-1,UK-ITV-BE
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/135.m3u8
+#EXTINF:-1,UK-SKYSPORT-1
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/144.m3u8
+#EXTINF:-1,UK-SKYSPORT-2
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/145.m3u8
+#EXTINF:-1,UK-SKY-F1
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/146.m3u8
+#EXTINF:-1,UK-ITV4
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/134.m3u8
+#EXTINF:-1,DE-NAT-GEO
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/101.m3u8
+#EXTINF:-1,UK-DISNEYXD
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/137.m3u8
+#EXTINF:-1,UK-DISCOVERY-HISTORY
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/141.m3u8
+#EXTINF:-1,UK-DISCOVERY-CHANNEL
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/140.m3u8
+#EXTINF:-1,UK-BT-SPORT-1
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/147.m3u8
+#EXTINF:-1,UK-BT-SPORT-2
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/148.m3u8
+#EXTINF:-1,UK-BBC-TWO
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/129.m3u8
+#EXTINF:-1,UK-BBC-ONE
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/128.m3u8
+#EXTINF:-1,UK-BBC-NEWS
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/130.m3u8
+#EXTINF:-1,UK-ANIMAL-PLANET
+http://anatoliantv.xyz:7412/live/mesut956/2341f321v/142.m3u8
 
-#EXTINF:0,SKY CRIME & THRILLER
-http://81.101.176.240:8001/1:0:1:1136:7D7:2:11A0000:0:0:0:
 
-#EXTINF:0,SKY CRIME & THRILLER HD
-http://81.101.176.240:8001/1:0:19:F16:7E0:2:11A0000:0:0:0:
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
 
-#EXTINF:0,SKY SCFI & HORROR
-http://81.101.176.240:8001/1:0:1:10D0:7D7:2:11A0000:0:0:0:
- #EXTINF:0,SKY SCFI & HORROR HD
-http://81.101.176.240:8001/1:0:19:EE9:7E8:2:11A0000:0:0:0:
 
-#EXTINF:-1,Al Jazeera http://62.65.140.151:80/session/09a9777e-dca7-11e5-b7a6-005056bc06d1/nvnv5a/2/4013/2290000/index.m3u8?token=b86c133e8792fffcfcaf1049f978e150_1455180021_1455180021&p=127|X-Forwarded-For=85.2.221.130 
-#EXTINF:-1,BBC1 HD http://62.65.140.214:80/session/0bed5212-dca7-11e5-a5c9-005056bc1a52/nvnv5a/2/4017/4240000/index.m3u8?token=c91c60b9b26118913e53c3295ccc88d9_1455180024_1455180024&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,BBC2 HD http://62.65.140.218:80/session/0c5aeade-dca7-11e5-beb1-005056bc06d1/nvnv5a/2/4012/4240000/index.m3u8?token=05f366eaa133c37f630916831ab8f387_1455180025_1455180025&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,BBC3 HD http://62.65.140.216:80/session/0cdd7940-dca7-11e5-9eb8-005056bc1a52/nvnv5a/2/4008/2290000/index.m3u8?token=3a0a7255f63c2f28299c40b2587b8987_1455180026_1455180026&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,BBC World News http://62.65.140.218:80/session/0d6a16ca-dca7-11e5-8208-005056bc49ac/nvnv5a/2/4003/2290000/index.m3u8?token=25f14f13087ab4986c1dad674d728c09_1455180026_1455180026&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,Channel 4 HD http://62.65.140.155:80/session/0fdd6862-dca7-11e5-b7a6-005056bc06d1/nvnv5a/2/4022/4240000/index.m3u8?token=0ab22ea3a65158f1c9fc07fbf0660eb0_1455180031_1455180031&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,CNBC http://62.65.140.219:80/session/1163e2a6-dca7-11e5-a43c-005056bc1a52/nvnv5a/2/4001/2290000/index.m3u8?token=0369a75d8b4d95e82bf71d8de295716d_1455180033_1455180033&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,CNN http://62.65.140.155:80/session/11f13caa-dca7-11e5-b333-005056bc06d1/nvnv5a/2/4002/2290000/index.m3u8?token=2569eae7766a9b87577e57619e30ecde_1455180033_1455180033&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,EuroNews English http://62.65.140.150:80/session/142f3634-dca7-11e5-8208-005056bc49ac/nvnv5a/1/104903/2290000/index.m3u8?token=f30713a590fe803b481e77d0815c1d0f_1455180037_1455180037&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,Film4 http://62.65.140.155:80/session/16cf59fa-dca7-11e5-beb1-005056bc06d1/nvnv5a/2/4023/2290000/index.m3u8?token=1889101d4b248952d8c850902918e867_1455180042_1455180042&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,ITV1 HD http://62.65.140.215:80/session/1b3365ae-dca7-11e5-beb1-005056bc06d1/nvnv5a/2/4018/4240000/index.m3u8?token=2284f1089182c673c6bb8689a4f177d1_1455180048_1455180048&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,ITV2 HD http://62.65.140.215:80/session/1bbb2908-dca7-11e5-b333-005056bc06d1/nvnv5a/2/4005/2290000/index.m3u8?token=592d2e98cf47c3cad25e29bc79603ef2_1455180049_1455180049&p=127|X-Forwarded-For=85.2.221.130 #EXTINF:-1,ITV3 HD http://62.65.140.217:80/session/1c3e50ee-dca7-11e5-a43c-005056bc1a52/nvnv5a/2/4025/2290000/index.m3u8?token=b4c9214619e1cb8
+#EXTINF:-1,UK: SKY NEWS
+http://iptvbox.noip.us:9998/live/mile/skype/186.m3u8
+#EXTINF:-1,UK: True Movies1
+http://iptvbox.noip.us:9998/live/mile/skype/675.m3u8
+#EXTINF:-1,UK: True Movies 2
+http://iptvbox.noip.us:9998/live/mile/skype/680.m3u8
+#EXTINF:-1,UK: True Drama
+http://iptvbox.noip.us:9998/live/mile/skype/678.m3u8
+#EXTINF:-1,UK: Tiny Pop
+http://iptvbox.noip.us:9998/live/mile/skype/683.m3u8
+#EXTINF:-1,UK: Syfy UK
+http://iptvbox.noip.us:9998/live/mile/skype/676.m3u8
+#EXTINF:-1,UK: Sky Movies Modern HD
+http://iptvbox.noip.us:9998/live/mile/skype/674.m3u8
+#EXTINF:-1,UK: Nick JR
+http://iptvbox.noip.us:9998/live/mile/skype/681.m3u8
+#EXTINF:-1,UK: Movies-4men Uk
+http://iptvbox.noip.us:9998/live/mile/skype/679.m3u8
+#EXTINF:-1,UK: Film4 UK
+http://iptvbox.noip.us:9998/live/mile/skype/677.m3u8
+#EXTINF:-1,UK: Disney XD
+http://iptvbox.noip.us:9998/live/mile/skype/684.m3u8
+#EXTINF:-1,UK: Disney Channel UK
+http://iptvbox.noip.us:9998/live/mile/skype/682.m3u8
+#EXTINF:-1,UK: Cartoon Network
+http://iptvbox.noip.us:9998/live/mile/skype/685.m3u8
+#EXTINF:-1,UK:Watch
+http://iptvbox.noip.us:9998/live/mile/skype/187.m3u8
+#EXTINF:-1,UK:TCL HD
+http://iptvbox.noip.us:9998/live/mile/skype/188.m3u8
+#EXTINF:-1,UK:SKY-PREMIERE SPORT
+http://iptvbox.noip.us:9998/live/mile/skype/260.m3u8
+#EXTINF:-1,UK:Sky Sport News HQ
+http://iptvbox.noip.us:9998/live/mile/skype/190.m3u8
+#EXTINF:-1,UK:Sky Sport 5 HD
+http://iptvbox.noip.us:9998/live/mile/skype/191.m3u8
+#EXTINF:-1,UK:Sky Sport 4 SD
+http://iptvbox.noip.us:9998/live/mile/skype/193.m3u8
+#EXTINF:-1,UK:Sky Sport 4 HD
+http://iptvbox.noip.us:9998/live/mile/skype/194.m3u8
+#EXTINF:-1,UK:Sky Sport 3 SD
+http://iptvbox.noip.us:9998/live/mile/skype/195.m3u8
+#EXTINF:-1,UK:Sky Sport 3 HD
+http://iptvbox.noip.us:9998/live/mile/skype/196.m3u8
+#EXTINF:-1,UK:Sky Sport 2 SD
+http://iptvbox.noip.us:9998/live/mile/skype/197.m3u8
+#EXTINF:-1,UK:Sky Sport 2 HD
+http://iptvbox.noip.us:9998/live/mile/skype/198.m3u8
+#EXTINF:-1,UK:Sky Sport 1 SD
+http://iptvbox.noip.us:9998/live/mile/skype/199.m3u8
+#EXTINF:-1,UK:Sky Sport 1 HD
+http://iptvbox.noip.us:9998/live/mile/skype/200.m3u8
+#EXTINF:-1,UK: Sport News
+http://iptvbox.noip.us:9998/live/mile/skype/635.m3u8
+#EXTINF:-1,UK: Sky Two
+http://iptvbox.noip.us:9998/live/mile/skype/638.m3u8
+#EXTINF:-1,UK: BT-BTsport2
+http://iptvbox.noip.us:9998/live/mile/skype/302.m3u8
+#EXTINF:-1,UK:BT-SPORTS1
+http://iptvbox.noip.us:9998/live/mile/skype/700.m3u8
+#EXTINF:-1,UK: SKY ONE
+http://iptvbox.noip.us:9998/live/mile/skype/639.m3u8
+#EXTINF:-1,UK: Sky Greats
+http://iptvbox.noip.us:9998/live/mile/skype/633.m3u8
+#EXTINF:-1,UK: Nicktoons
+http://iptvbox.noip.us:9998/live/mile/skype/625.m3u8
+#EXTINF:-1,UK: MOVIES ACTION
+http://iptvbox.noip.us:9998/live/mile/skype/634.m3u8
+#EXTINF:-1,UK: ID
+http://iptvbox.noip.us:9998/live/mile/skype/627.m3u8
+#EXTINF:-1,UK: Fox
+http://iptvbox.noip.us:9998/live/mile/skype/632.m3u8
+#EXTINF:-1,UK: Drama
+http://iptvbox.noip.us:9998/live/mile/skype/636.m3u8
+#EXTINF:-1,UK: Disney Junior
+http://iptvbox.noip.us:9998/live/mile/skype/628.m3u8
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://iptvbox.noip.us:9998/live/mile/skype/629.m3u8
+#EXTINF:-1,UK: ANIMAL PLANET
+http://iptvbox.noip.us:9998/live/mile/skype/630.m3u8
+#EXTINF:-1,UK: Aliens
+http://iptvbox.noip.us:9998/live/mile/skype/637.m3u8
+#EXTINF:-1,UK: Alibi
+http://iptvbox.noip.us:9998/live/mile/skype/631.m3u8
+#EXTINF:-1,UK: Sky Movies Thriller
+http://iptvbox.noip.us:9998/live/mile/skype/615.m3u8
+#EXTINF:-1,UK: Sky Movies Sci-Fi & Horror
+http://iptvbox.noip.us:9998/live/mile/skype/616.m3u8
+#EXTINF:-1,UK: Sky Movies Action & Adventure
+http://iptvbox.noip.us:9998/live/mile/skype/614.m3u8
+#EXTINF:-1,UK:Sky Movies Thriller
+http://iptvbox.noip.us:9998/live/mile/skype/201.m3u8
+#EXTINF:-1,UK:Sky Movies Select
+http://iptvbox.noip.us:9998/live/mile/skype/202.m3u8
+#EXTINF:-1,UK:Sky Movies Premiere
+http://iptvbox.noip.us:9998/live/mile/skype/204.m3u8
+#EXTINF:-1,UK:Sky Movies Greats
+http://iptvbox.noip.us:9998/live/mile/skype/205.m3u8
+#EXTINF:-1,UK:Sky Movies Family
+http://iptvbox.noip.us:9998/live/mile/skype/206.m3u8
+#EXTINF:-1,UK:Sky Movies Drama & Romance
+http://iptvbox.noip.us:9998/live/mile/skype/207.m3u8
+#EXTINF:-1,UK:EuroSport 1 HD
+http://iptvbox.noip.us:9998/live/mile/skype/509.m3u8
+#EXTINF:-1,UK:BBC Two HD
+http://iptvbox.noip.us:9998/live/mile/skype/505.m3u8
+#EXTINF:-1,UK:BBC Three HD
+http://iptvbox.noip.us:9998/live/mile/skype/506.m3u8
+#EXTINF:-1,UK:BBC One HD
+http://iptvbox.noip.us:9998/live/mile/skype/507.m3u8
+#EXTINF:-1,UK:BBC Four HD
+http://iptvbox.noip.us:9998/live/mile/skype/508.m3u8
+#EXTINF:-1,UK:Sky Movies Disney
+http://iptvbox.noip.us:9998/live/mile/skype/208.m3u8
+#EXTINF:-1,UK:Sky Movies Comedy
+http://iptvbox.noip.us:9998/live/mile/skype/209.m3u8
+#EXTINF:-1,UK:Sky Movies Action
+http://iptvbox.noip.us:9998/live/mile/skype/210.m3u8
+#EXTINF:-1,UK:Sky Movie Sci-Fi & horror
+http://iptvbox.noip.us:9998/live/mile/skype/211.m3u8
+#EXTINF:-1,UK:Sky Living
+http://iptvbox.noip.us:9998/live/mile/skype/212.m3u8
+#EXTINF:-1,UK:Sky Atlantic
+http://iptvbox.noip.us:9998/live/mile/skype/213.m3u8
+#EXTINF:-1,UK:Sky Art 1
+http://iptvbox.noip.us:9998/live/mile/skype/214.m3u8
+#EXTINF:-1,UK:Sky 1
+http://iptvbox.noip.us:9998/live/mile/skype/216.m3u8
+#EXTINF:-1,UK:RTE Two HD
+http://iptvbox.noip.us:9998/live/mile/skype/218.m3u8
+#EXTINF:-1,UK:Sky Movies ShowCase
+http://iptvbox.noip.us:9998/live/mile/skype/623.m3u8
+#EXTINF:-1,UK:Discovery Science HD
+http://iptvbox.noip.us:9998/live/mile/skype/624.m3u8
+#EXTINF:-1,UK:RTE One
+http://iptvbox.noip.us:9998/live/mile/skype/219.m3u8
+#EXTINF:-1,UK:Premier Sport
+http://iptvbox.noip.us:9998/live/mile/skype/220.m3u8
+#EXTINF:-1,UK:NICKLEODON
+http://iptvbox.noip.us:9998/live/mile/skype/221.m3u8
+#EXTINF:-1,UK:National Geographic
+http://iptvbox.noip.us:9998/live/mile/skype/222.m3u8
+#EXTINF:-1,UK:Nat Geo Wild
+http://iptvbox.noip.us:9998/live/mile/skype/223.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,BBC One Lon
+http://213.58.196.202:20206/udp/127.0.0.1:40001
+#EXTINF:-1,BBC Two Eng
+http://213.58.196.202:20206/udp/127.0.0.1:40002
+#EXTINF:-1,BBC Four
+http://213.58.196.202:20206/udp/127.0.0.1:40003
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR yellow][I][B]UK CHANNELS[/B][/I][/COLOR]
+http://0.0.0.0:123
+
+#EXTINF:-1, [I][B]BBC One Lon[/B][/I]
+http://37.220.108.122:20000/1
+#EXTINF:-1, [I][B]BBC One Lon[/B][/I]
+http://37.220.108.122:20000/2
+#EXTINF:-1, [I][B]BBC Two Eng[/B][/I]
+http://37.220.108.122:20000/3
+#EXTINF:-1, [I][B]BBC Three[/B][/I]
+http://37.220.108.122:20000/5
+#EXTINF:-1, [I][B]BBC Four[/B][/I]
+http://37.220.108.122:20000/4
+#EXTINF:-1, [I][B]BBC NEWS[/B][/I]
+http://37.220.108.122:20000/6
+#EXTINF:-1, [I][B]BBC One NI[/B][/I]
+http://37.220.108.122:20000/7
+#EXTINF:-1, [I][B]BBC One Wales[/B][/I]
+http://37.220.108.122:20000/8
+#EXTINF:-1, [I][B]BBC R3[/B][/I]
+http://37.220.108.122:20000/9
+#EXTINF:-1, [I][B]BBC R4 FM[/B][/I]
+http://37.220.108.122:20000/10
+#EXTINF:-1, [I][B]BBC One Scot[/B][/I]
+http://37.220.108.122:20000/11
+#EXTINF:-1, [I][B]BBC R1[/B][/I]
+http://37.220.108.122:20000/12
+#EXTINF:-1, [I][B]BBC R2[/B][/I]
+http://37.220.108.122:20000/13
+#EXTINF:-1, [I][B]ITV[/B][/I]
+http://37.220.108.122:20000/14
+#EXTINF:-1, [I][B]ITV[/B][/I]
+http://37.220.108.122:20000/15
+#EXTINF:-1, [I][B]ITV2[/B][/I]
+http://37.220.108.122:20000/16
+#EXTINF:-1, [I][B]ITV3[/B][/I]
+http://37.220.108.122:20000/18
+#EXTINF:-1, [I][B]ITV4[/B][/I]
+http://37.220.108.122:20000/17
+#EXTINF:-1, [I][B]ITVBe[/B][/I]
+http://37.220.108.122:20000/19
+#EXTINF:-1, [I][B]Channel 5[/B][/I]
+http://37.220.108.122:20000/20
+#EXTINF:-1, [I][B]5 USA[/B][/I]
+http://37.220.108.122:20000/21
+#EXTINF:-1, [I][B]5STAR[/B][/I]
+http://37.220.108.122:20000/22
+#EXTINF:-1, [I][B]ITV +1[/B][/I]
+http://37.220.108.122:20000/26
+
+#EXTINF:-1, [I][B]London Live[/B][/I]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:0, [I][B]QVC 1[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 2[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 3[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0, [I][B]QVC 4[/B][/I]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+
+#EXTINF:-1, [I][B]GINX[/B][/I]
+http://204.107.26.252:1935/live/796.high.stream/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- KIDS ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [I][B]Baby TV[/B][/I]
+http://185.75.56.97:4022/udp/225.0.0.2:1234
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- MOVIES / TV SHOWS ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1, [I][B]True Movies 1[/B][/I]
+http://xtv.satarabia.com:80/live/testy2016/testy2016/36.ts
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- 24/7 ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:0, [I][B]All Kinds of Movies[/B][/I]
+http://veetle.com/index.php/hls/streamMbrfast/563dd79bc45b2_/stream.m3u8
+ 
+#EXTINF:0, [I][B]Action Movies[/B][/I]
+http://veetle.com/index.php/hls/streamMbrfast/565329fe01041_/stream.m3u8
+ 
+#EXTINF:0, [I][B]Family Movies[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/4d6934c2476b3_/stream.m3u8
+
+#EXTINF:0, [I][B]Classics[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/1585.jpg", [I][B]Star Trek[/B][/I]
+http://veetle.com/index.php/hls/streamMbrfast/51e482fa02883_/stream.m3u8
+
+#EXTINF:0, [I][B]Bollywood Movies[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/4e0e6f4dcc2d3_/stream.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6638.jpg", [I][B]Film Noir Classic Channel (EN)[/B][/I]
+http://veetle.com/index.php/hls/streamMbrfast/560254c83ba47_/stream.m3u8
+
+#EXTINF:-1, [I][B]South Park - Uncensored[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+
+#EXTINF:-1 tvg-logo="Tom%20e%20Jerry.jpg" tvg-logo="http://logos.iptvglobal.com.br/Tom%20e%20Jerry.jpg" group-title="Desenhos 24 horas", [I][B]Tom and Jerry (Classic)[/I][/B]
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1
+
+#EXTINF:-1, [I][B]Simpsons[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
+
+#EXTINF:0 tvg-logo="http://channelpear.com/images/media/7188.jpg", [I][B]SpongeBob[/B][/I]
+http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
+
+#EXTINF:-1, [I][B]King of the Hill[/B][/I]
+http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1 group-title=â€œSPORTâ€,[I][B][COLOR yellow]--- SPORT ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+
+#EXTINF:1, SKY SPORTS 1
+rtmp://80.82.70.155/live/mys1 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 1
+rtmp://80.82.64.171/live/s1 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS 2
+rtmp://80.82.70.155/live/mys2 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 2
+rtmp://80.82.64.171/live/s2 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS 3
+rtmp://80.82.70.155/live/mys3 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 3
+rtmp://80.82.64.171/live/s3 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS 4
+rtmp://80.82.70.155/live/mys4 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 4
+rtmp://80.82.64.171/live/s4 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS 5/NEWS
+rtmp://80.82.70.155/live/mys5 pageUrl=http://www.yocast.tv/
+#EXTINF:1, SKY SPORTS 5/NEWS
+rtmp://80.82.64.171/live/s5 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, SKY SPORTS F1
+rtmp://80.82.64.46/live/sf1 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, BT SPORT 1
+rtmp://80.82.70.155/live/myb1 pageUrl=http://www.yocast.tv/
+#EXTINF:1, BT SPORT 1
+rtmp://80.82.64.171/live/b1 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, BT SPORT 2
+rtmp://80.82.70.155/live/myb2 pageUrl=http://www.yocast.tv/
+#EXTINF:1, BT SPORT 2
+rtmp://80.82.64.171/live/b2 pageUrl=http://www.cast4u.tv/
+#EXTINF:1, BT/ESPN SPORT
+rtmp://80.82.70.155/live/luxsuperbtsespn pageUrl=http://www.yocast.tv/
+#EXTINF:1, BT SPORT EUROPE
+rtmp://80.82.70.155/live/mybeu pageUrl=http://www.yocast.tv/
+
+#EXTINF:-1, [I][B]Eurosport 1[/B][/I]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/9997.jpg", [I][B]Poker Central[/B][/I]
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- DOCUMENTARIES ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1, [I][B]National Geo HD[/B][/I]
+http://185.75.56.97:4022/udp/239.100.5.111:60995
+
+#EXTINF:0, [I][B]Mute TV 3D[/B][/I]
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.3d/stream.m3u8
+ 
+#EXTINF:0, [I][B]Mute TV HD[/B][/I]
+http://streamer1.cdn.3dsmart.tv/hls/mutetv.tv.hd/stream.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg", [I][B]Genesis Science Network[/B][/I]
+rtmp://live.cdn01.net/LiveChannels?channel_id=14019&source=othersites playpath=stream_14019 swfUrl=http://embed.cdn01.net/player.swf?v14 live=1 pageUrl=http://embed.cdn01.net/player.php?width=580&height=326&skinColor=000000&autoStart=false&playlistPos=inside&playlistSize=350&tvButtonID=lightcast&id=14019&type=live
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://i.imgur.com/8i73Fnl.jpg", [I][B]RT Documentary[/B][/I]
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/6803.jpg", [I][B]UFO Channel[/B][/I]
+http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/102.png", [I][B]World Fashion Channel[/B][/I]
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/3807.jpg", [I][B]NASA TV[/B][/I]
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://channelpear.com/images/media/6677.jpg", [I][B]At The Drive-In[/B][/I]
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- MUSIC ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1,Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[I][B][COLOR yellow]--- NEWS ---[/COLOR][/B][/I]
+http://0.0.0.0:1234
